@@ -1,0 +1,10 @@
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\bin\Debug\Fibo.exe.config
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\bin\Debug\Fibo.XML
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\bin\Debug\Fibo.exe
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\bin\Debug\Fibo.pdb
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\bin\Debug\FSharp.Core.dll
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\bin\Debug\FSharp.Core.xml
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\bin\Debug\es\FSharp.Core.resources.dll
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\obj\Debug\Fibo.fsprojResolveAssemblyReference.cache
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\obj\Debug\Fibo.exe
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\Fibo\Fibo\obj\Debug\Fibo.pdb

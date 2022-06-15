@@ -1,0 +1,10 @@
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\obj\Debug\FiboR.fsprojResolveAssemblyReference.cache
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\bin\Debug\FiboR.exe.config
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\bin\Debug\FiboR.XML
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\bin\Debug\FiboR.exe
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\bin\Debug\FiboR.pdb
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\bin\Debug\FSharp.Core.dll
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\bin\Debug\FSharp.Core.xml
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\bin\Debug\es\FSharp.Core.resources.dll
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\obj\Debug\FiboR.exe
+D:\INF-319 Programacion Funcional\2Parcial\Pregunta1\#f\FiboR\FiboR\obj\Debug\FiboR.pdb
