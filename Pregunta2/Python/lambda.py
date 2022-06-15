@@ -1,7 +1,18 @@
-from functools import reduce
-fibonacci = lambda n : reduce(lambda a, _: a + [a[-1] + a[-2] + a[-3]], range(n-2), [0, 1, 1])
+x = lambda a, b, c: (a + b + c)
+
+def fibonacci (n):
+	list = []
+	a = -1
+	b = 1
+	c = 0
+	for i in range(n):
+		aux = x(a, b, c)
+		a = b
+		b = c 
+		c = aux
+		list.append(c)
+	print(list)
 
 print("Fibonacci Funcion Temporal (lambda)")
-valor = int(input("Introduzca un N : "))
-serie = fibonacci(valor)
-print(serie)
+n = int(input("Introduzca un N : "))
+fibonacci(n)
